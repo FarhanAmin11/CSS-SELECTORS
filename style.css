@@ -1,0 +1,45 @@
+/* UNIVERSAgit stausL SELECTOR */
+/*  *{
+    color:red
+}  */
+
+/* TYPE SELECTOR  */
+ /* h1{
+    color:blueviolet
+} */
+
+/* MULTIPLE SELECTORS */
+/* h1,span{
+    color:blue
+} */
+
+/* CLASS SELECTOR */
+/* .interest{
+    color:blue
+} */
+
+/* ID SELECTOR */
+/* #my-h2{
+    color:red
+} */
+
+/* CHILD SELECTOR */
+/* span > p{
+    color:red
+} */
+
+/* DESCENDANT SELECTOR */
+/* div p{
+    color:red
+} */
+
+/* ADJACENT SIBLING SELECTOR */
+/* h1+p{
+    color:red
+} */
+
+/* GENERAL SIBLING SELECTOR*/
+/* h1~p{
+    color:red
+} */
+
